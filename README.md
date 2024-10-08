@@ -4,6 +4,7 @@ This project is a simple YouTube URL to MP3 converter. It takes a YouTube video 
 
 ## Features
 - Convert YouTube videos to MP3 format.
+- Audio quality selection. 
 - Lightweight and easy to use.
 - Uses `yt-dlp` for downloading and `ffmpeg` for audio extraction.
   
