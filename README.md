@@ -62,4 +62,4 @@ Follow the instructions [here](https://ffmpeg.org/download.html) to install ffmp
 
 ## Contact
 
-For suggestions, recommendations, development ideas, or any issues, feel free to reach out at [here](code.freq7@gmail.com).
+For suggestions, recommendations, development ideas, or any issues, feel free to reach out at *code.freq7@gmail.com*
