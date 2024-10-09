@@ -55,7 +55,9 @@ Follow the instructions [here](https://ffmpeg.org/download.html) to install ffmp
 
 > [!TIP]
 > **Use VLC for Playback:** It is recommended to use VLC Media Player for the best compatibility and playback of the downloaded audio and video files. VLC supports a wide range of formats and ensures smooth playback without issues.
+>
 > **Handling Temporary Server Errors:** Due to occasional discrepancies with YouTube's servers, audio and video quality options may differ. If this occurs, restarting the program a few times may help resolve the issue and improve the quality of the downloads.
+>
 > **Experiment with Different Formats:** When merging files, certain format selections may lead to security errors or application crashes. It is advisable to try different formats if you encounter any issues during the merging process to find the best combination that works for your needs.
 
 ## Contact
